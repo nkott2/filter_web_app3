@@ -1,0 +1,28 @@
+h3 {
+    font-size : 25px !important;
+}
+
+.btn-success:hover {
+    background-color : red;
+}
+
+canvas {
+    animation-name : example;
+    animation-duration : 4s;
+    animation-iteration-count: infinite;
+}
+
+h3 {
+    border-style: dashed;
+    background-color: rgb(85, 210, 237);
+    height: 50;
+    width: 300px;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+}
+
+body {
+    background-color: bisque;
+    border-style: dotted;
+}
